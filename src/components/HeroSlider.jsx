@@ -5,7 +5,7 @@ const slides = [
   {
     title: "React Study Guide",
     subtitle: "A practical guide to learning React the right way",
-    image: "/images/book.png"
+    image: "/images/book.jpeg"
   },
   {
     title: "Build Faster with Vite",
