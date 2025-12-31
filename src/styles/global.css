@@ -1,0 +1,27 @@
+@import "./forms.css";
+@import "./preview.css";
+@import "./about.css";
+@import "./buttons.css";
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  background: linear-gradient(135deg, #ffffff, #e6f3ff);
+  color: #0f172a;
+}
+
+section {
+  padding: 80px 6%;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+}

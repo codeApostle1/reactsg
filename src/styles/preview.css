@@ -1,0 +1,46 @@
+.section-intro {
+  max-width: 640px;
+  margin: 12px auto 50px;
+  text-align: center;
+  color: #475569;
+}
+
+.preview-block {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  margin-bottom: 80px;
+}
+
+.preview-block img {
+  width: 300px;
+  border-radius: 12px;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+}
+
+.preview-block h3 {
+  margin-bottom: 10px;
+  color: #0f172a;
+}
+
+.preview-block p {
+  color: #334155;
+  line-height: 1.7;
+}
+
+.preview-block.reverse {
+  flex-direction: row-reverse;
+}
+
+@media (max-width: 900px) {
+  .preview-block,
+  .preview-block.reverse {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .preview-block img {
+    width: 100%;
+    max-width: 360px;
+  }
+}
