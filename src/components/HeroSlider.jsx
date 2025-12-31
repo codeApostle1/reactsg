@@ -15,7 +15,7 @@ const slides = [
   {
     title: "Learn with AI & Real Examples",
     subtitle: "Curated learning from trusted sources",
-    image: "/images/flyer2.png"
+    image: "/images/book.png"
   }
 ]
 
