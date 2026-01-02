@@ -5,17 +5,17 @@ const slides = [
   {
     title: "React Study Guide",
     subtitle: "A practical guide to learning React the right way",
-    image: "/images/book.jpeg"
+    image: "/images/book.jpg"
   },
   {
     title: "Build Faster with Vite",
     subtitle: "Modern workflow for React developers",
-    image: "/images/flyer1.png"
+    image: "/images/flyer1.jpg"
   },
   {
     title: "Learn with AI & Real Examples",
     subtitle: "Curated learning from trusted sources",
-    image: "/images/book.png"
+    image: "/images/flyer2.jpg"
   }
 ]
 
