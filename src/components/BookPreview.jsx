@@ -9,7 +9,7 @@ const BookPreview = () => {
       </p>
 
       <div className="preview-block">
-        <img src="/images/preview1.png" alt="React Basics" />
+        <img src="/images/preview1.jpg" alt="React Basics" />
         <div>
           <h3>React Fundamentals</h3>
           <p>
@@ -20,7 +20,7 @@ const BookPreview = () => {
       </div>
 
       <div className="preview-block reverse">
-        <img src="/images/preview2.png" alt="Vite Setup" />
+        <img src="/images/preview2.jpg" alt="Vite Setup" />
         <div>
           <h3>Modern Setup with Vite</h3>
           <p>
@@ -31,7 +31,7 @@ const BookPreview = () => {
       </div>
 
       <div className="preview-block">
-        <img src="/images/preview3.png" alt="Projects" />
+        <img src="/images/preview3.jpg" alt="Projects" />
         <div>
           <h3>Hands-on Projects</h3>
           <p>
